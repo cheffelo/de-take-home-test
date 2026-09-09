@@ -1,0 +1,1 @@
+-- Q2: Revenue by preference type (allergen vs taste vs concept).

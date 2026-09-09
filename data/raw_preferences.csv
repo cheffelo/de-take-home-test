@@ -1,0 +1,12 @@
+preference_id,preference_name,preference_type
+1,Gluten free,allergen
+2,Lactose free,allergen
+3,Nut free,allergen
+4,Shellfish free,allergen
+5,No pork,taste
+6,No fish,taste
+7,Extra spicy,taste
+8,Mild only,taste
+9,Vegetarian,concept
+10,Low calorie,concept
+11,Family friendly,concept

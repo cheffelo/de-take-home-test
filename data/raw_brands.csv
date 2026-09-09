@@ -1,0 +1,5 @@
+brand_id,brand_name,country,currency,vat_rate
+1,Godtlevert,NO,NOK,0.15
+2,Linas Matkasse,SE,SEK,0.12
+3,RetNemt,DK,DKK,0.25
+4,Cheffelo,FI,EUR,0.14
